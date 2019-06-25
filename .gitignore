@@ -1,0 +1,17 @@
+# Cocoapods
+Podfile.lock
+Pods/
+
+## Xcode
+*.xcbkptlist
+*.xcuserstate
+
+xcuserdata/
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+
+*.xcworkspace/*
+!*.xcworkspace/project.pbxproj
+!*.xcworkspace/xcshareddata/
